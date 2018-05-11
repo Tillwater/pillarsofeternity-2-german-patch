@@ -100,14 +100,14 @@ Er ist sich sicher, du hast jetzt genug gelernt, um in Zukunft eigenständig tra
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>„Mein Bruder! Ich bin so froh, auf dieser von der Sonne ausgedörrten Inselgruppe endlich ein freundliches Gesicht zu sehen! Ich vermute einmal, du bist hier, um dir ehrliche Arbeit zu suchen?“
+      <DefaultText>„Mein Bruder! Ich bin so froh, auf dieser von der Sonne ausgedörrten Inselgruppe endlich ein freundliches Gesicht zu sehen! Ich vermute einmal, du bist hier, um dir ehrliche Arbeit zu suchen?
 
-„Nun, ich muss nicht alle Einzelheiten erfahren. Du hast dich schließlich nach &lt;i&gt;mir&lt;/i&gt; erkundigt.“
+Nun, ich muss nicht alle Einzelheiten erfahren. Du hast dich schließlich nach &lt;i&gt;mir&lt;/i&gt; erkundigt.“
 
 Er räuspert sich laut und vernehmlich.</DefaultText>
-      <FemaleText>„Meine Schwester! Ich bin so froh, auf dieser von der Sonne ausgedörrten Inselgruppe endlich ein freundliches Gesicht zu sehen! Ich vermute einmal, du bist hier, um dir ehrliche Arbeit zu suchen?“
+      <FemaleText>„Meine Schwester! Ich bin so froh, auf dieser von der Sonne ausgedörrten Inselgruppe endlich ein freundliches Gesicht zu sehen! Ich vermute einmal, du bist hier, um dir ehrliche Arbeit zu suchen?
 
-„Nun, ich muss nicht alle Einzelheiten erfahren. Du hast dich schließlich nach &lt;i&gt;mir&lt;/i&gt; erkundigt.“
+Nun, ich muss nicht alle Einzelheiten erfahren. Du hast dich schließlich nach &lt;i&gt;mir&lt;/i&gt; erkundigt.“
 
 Er räuspert sich laut und vernehmlich.</FemaleText>
     </Entry>
@@ -140,9 +140,9 @@ Er räuspert sich laut und vernehmlich.</DefaultText>
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>„Unser gesamter Besitz bestand aus einer Truhe mit Erbstücken. Eines dieser Erbstücke war diese Rüstung. Sie hat meinem ältesten Bruder gehört.“
+      <DefaultText>„Unser gesamter Besitz bestand aus einer Truhe mit Erbstücken. Eines dieser Erbstücke war diese Rüstung. Sie hat meinem ältesten Bruder gehört.
 
-„Jetzt bemühe ich mich darum, dem Anspruch dieser Rüstung gerecht zu werden und die Ehre meiner Familie wiederherzustellen.“</DefaultText>
+Jetzt bemühe ich mich darum, dem Anspruch dieser Rüstung gerecht zu werden und die Ehre meiner Familie wiederherzustellen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

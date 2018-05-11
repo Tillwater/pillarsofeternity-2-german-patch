@@ -148,8 +148,8 @@ Hazanui Karū hingegen betrachtet dich kalt und forschend.</DefaultText>
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>„Und wie kommt es, dass ein Wächter vom anderen Ende der Welt in diese … Geschehnisse verwickelt ist? “Kläre den Gerichtshof doch bitte darüber auf.„</DefaultText>
-      <FemaleText>„Und wie kommt es, dass eine Wächterin vom anderen Ende der Welt in diese … Geschehnisse verwickelt ist? “Kläre den Gerichtshof doch bitte darüber auf.„</FemaleText>
+      <DefaultText>„Und wie kommt es, dass ein Wächter vom anderen Ende der Welt in diese … Geschehnisse verwickelt ist? Kläre den Gerichtshof doch bitte darüber auf.„</DefaultText>
+      <FemaleText>„Und wie kommt es, dass eine Wächterin vom anderen Ende der Welt in diese … Geschehnisse verwickelt ist? Kläre den Gerichtshof doch bitte darüber auf.„</FemaleText>
     </Entry>
     <Entry>
       <ID>49</ID>
